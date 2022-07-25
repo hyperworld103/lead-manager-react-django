@@ -68,6 +68,9 @@ export class Form extends Component {
             <button type="submit" className="btn btn-primary">
               Submit
             </button>
+            <button type="submit" className="btn btn-primary">
+              Submit
+            </button>
           </div>
         </form>
       </div>
