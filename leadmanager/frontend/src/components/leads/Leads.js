@@ -42,6 +42,8 @@ export class Leads extends Component {
                   >
                     {' '}
                     Delete
+                    {' '}
+                    Delete
                   </button>
                 </td>
               </tr>
